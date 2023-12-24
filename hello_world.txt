@@ -1,0 +1,2 @@
+Following step 4 of the Odin Project
+I opened the command line built directly into VS code using Ctrl `
